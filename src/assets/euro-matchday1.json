@@ -1,0 +1,395 @@
+{
+    "count": 8,
+    "filters": {
+        "matchday": "1"
+    },
+    "competition": {
+        "id": 2018,
+        "area": {
+            "id": 2077,
+            "name": "Europe"
+        },
+        "name": "European Championship",
+        "code": "EC",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2020-09-10T13:51:03Z"
+    },
+    "matches": [
+        {
+            "id": 285418,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-11T19:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group A",
+            "lastUpdated": "2020-09-07T06:44:10Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 803,
+                "name": "Turkey"
+            },
+            "awayTeam": {
+                "id": 784,
+                "name": "Italy"
+            },
+            "referees": []
+        },
+        {
+            "id": 285419,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-12T13:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group A",
+            "lastUpdated": "2020-09-07T06:44:10Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 833,
+                "name": "Wales"
+            },
+            "awayTeam": {
+                "id": 788,
+                "name": "Switzerland"
+            },
+            "referees": []
+        },
+        {
+            "id": 285424,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-12T16:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group B",
+            "lastUpdated": "2020-09-07T06:44:10Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 782,
+                "name": "Denmark"
+            },
+            "awayTeam": {
+                "id": 1976,
+                "name": "Finland"
+            },
+            "referees": []
+        },
+        {
+            "id": 285425,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-12T19:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group B",
+            "lastUpdated": "2020-09-07T06:44:10Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 805,
+                "name": "Belgium"
+            },
+            "awayTeam": {
+                "id": 808,
+                "name": "Russia"
+            },
+            "referees": []
+        },
+        {
+            "id": 285436,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-13T13:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group D",
+            "lastUpdated": "2020-09-07T06:44:11Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 770,
+                "name": "England"
+            },
+            "awayTeam": {
+                "id": 799,
+                "name": "Croatia"
+            },
+            "referees": []
+        },
+        {
+            "id": 285431,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-13T19:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group C",
+            "lastUpdated": "2020-09-07T06:44:11Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 8601,
+                "name": "Netherlands"
+            },
+            "awayTeam": {
+                "id": 790,
+                "name": "Ukraine"
+            },
+            "referees": []
+        },
+        {
+            "id": 285443,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-14T19:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group E",
+            "lastUpdated": "2020-09-07T06:44:11Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 760,
+                "name": "Spain"
+            },
+            "awayTeam": {
+                "id": 792,
+                "name": "Sweden"
+            },
+            "referees": []
+        },
+        {
+            "id": 285449,
+            "season": {
+                "id": 507,
+                "startDate": "2020-06-12",
+                "endDate": "2020-07-12",
+                "currentMatchday": 1
+            },
+            "utcDate": "2021-06-15T19:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group F",
+            "lastUpdated": "2020-09-07T06:44:12Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 773,
+                "name": "France"
+            },
+            "awayTeam": {
+                "id": 759,
+                "name": "Germany"
+            },
+            "referees": []
+        }
+    ]
+}

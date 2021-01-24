@@ -1,0 +1,1267 @@
+{
+    "count": 16,
+    "filters": {
+        "matchday": "1"
+    },
+    "competition": {
+        "id": 2001,
+        "area": {
+            "id": 2077,
+            "name": "Europe"
+        },
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2020-11-05T03:35:02Z"
+    },
+    "matches": [
+        {
+            "id": 313221,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T16:55:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group F",
+            "lastUpdated": "2020-10-21T11:55:03Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 731,
+                "name": "FK Zenit Sankt-Petersburg"
+            },
+            "awayTeam": {
+                "id": 851,
+                "name": "Club Brugge KV"
+            },
+            "referees": [
+                {
+                    "id": 43926,
+                    "name": "Benoît Bastien",
+                    "nationality": null
+                },
+                {
+                    "id": 43927,
+                    "name": "Frédéric Haquette",
+                    "nationality": null
+                },
+                {
+                    "id": 64594,
+                    "name": "Roy Hassan",
+                    "nationality": null
+                },
+                {
+                    "id": 57051,
+                    "name": "Karim Abed",
+                    "nationality": null
+                },
+                {
+                    "id": 15545,
+                    "name": "Benoît Millot",
+                    "nationality": null
+                },
+                {
+                    "id": 57042,
+                    "name": "Willy Delajod",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313233,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T16:55:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group G",
+            "lastUpdated": "2020-10-21T11:50:03Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 842,
+                "name": "FK Dynamo Kyiv"
+            },
+            "awayTeam": {
+                "id": 109,
+                "name": "Juventus FC"
+            },
+            "referees": [
+                {
+                    "id": 36314,
+                    "name": "Ovidiu Hațegan",
+                    "nationality": null
+                },
+                {
+                    "id": 36316,
+                    "name": "Octavian Șovre",
+                    "nationality": null
+                },
+                {
+                    "id": 36837,
+                    "name": "Sebastian Gheorghe",
+                    "nationality": null
+                },
+                {
+                    "id": 36425,
+                    "name": "Constantin Colțescu",
+                    "nationality": null
+                },
+                {
+                    "id": 15746,
+                    "name": "Bastian Dankert",
+                    "nationality": null
+                },
+                {
+                    "id": 253,
+                    "name": "Harm Osmers",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313209,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group E",
+            "lastUpdated": "2020-11-07T05:30:12Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 61,
+                "name": "Chelsea FC"
+            },
+            "awayTeam": {
+                "id": 559,
+                "name": "Sevilla FC"
+            },
+            "referees": [
+                {
+                    "id": 11029,
+                    "name": "Davide Massa",
+                    "nationality": null
+                },
+                {
+                    "id": 10992,
+                    "name": "Stefano Alassio",
+                    "nationality": null
+                },
+                {
+                    "id": 11048,
+                    "name": "Alberto Tegoni",
+                    "nationality": null
+                },
+                {
+                    "id": 11050,
+                    "name": "Giampaolo Calvarese",
+                    "nationality": null
+                },
+                {
+                    "id": 11060,
+                    "name": "Marco Di Bello",
+                    "nationality": null
+                },
+                {
+                    "id": 11043,
+                    "name": "Maurizio Mariani",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313210,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group E",
+            "lastUpdated": "2020-11-07T05:30:12Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 529,
+                "name": "Stade Rennais FC 1901"
+            },
+            "awayTeam": {
+                "id": 5452,
+                "name": "FK Krasnodar"
+            },
+            "referees": [
+                {
+                    "id": 43905,
+                    "name": "Tasos Sidiropoulos",
+                    "nationality": null
+                },
+                {
+                    "id": 43906,
+                    "name": "Polychronis Kostaras",
+                    "nationality": null
+                },
+                {
+                    "id": 43907,
+                    "name": "Lazaros Dimitriadis",
+                    "nationality": null
+                },
+                {
+                    "id": 83810,
+                    "name": "Ioannis Papadopoulos",
+                    "nationality": null
+                },
+                {
+                    "id": 11075,
+                    "name": "Paolo Valeri",
+                    "nationality": null
+                },
+                {
+                    "id": 10977,
+                    "name": "Fabio Maresca",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313222,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group F",
+            "lastUpdated": "2020-10-21T12:10:04Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 110,
+                "name": "SS Lazio"
+            },
+            "awayTeam": {
+                "id": 4,
+                "name": "BV Borussia 09 Dortmund"
+            },
+            "referees": [
+                {
+                    "id": 9374,
+                    "name": "Clément Turpin",
+                    "nationality": null
+                },
+                {
+                    "id": 43883,
+                    "name": "Nicolas Danos",
+                    "nationality": null
+                },
+                {
+                    "id": 43884,
+                    "name": "Cyril Gringore",
+                    "nationality": null
+                },
+                {
+                    "id": 57090,
+                    "name": "Franck Schneider",
+                    "nationality": null
+                },
+                {
+                    "id": 43918,
+                    "name": "François Letexier",
+                    "nationality": null
+                },
+                {
+                    "id": 15548,
+                    "name": "Jérôme Brisard",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313234,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group G",
+            "lastUpdated": "2020-10-21T12:00:06Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 5,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 81,
+                "name": "FC Barcelona"
+            },
+            "awayTeam": {
+                "id": 5954,
+                "name": "Ferencvárosi TC"
+            },
+            "referees": [
+                {
+                    "id": 31823,
+                    "name": "Sandro Schärer",
+                    "nationality": null
+                },
+                {
+                    "id": 14932,
+                    "name": "Stéphane De Almeida",
+                    "nationality": null
+                },
+                {
+                    "id": 30769,
+                    "name": "Bekim Zogaj",
+                    "nationality": null
+                },
+                {
+                    "id": 14931,
+                    "name": "Fedayi San",
+                    "nationality": null
+                },
+                {
+                    "id": 11054,
+                    "name": "Massimiliano Irrati",
+                    "nationality": null
+                },
+                {
+                    "id": 11069,
+                    "name": "Fabiano Preti",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313245,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group H",
+            "lastUpdated": "2020-11-07T05:30:14Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC"
+            },
+            "awayTeam": {
+                "id": 66,
+                "name": "Manchester United FC"
+            },
+            "referees": [
+                {
+                    "id": 43869,
+                    "name": "Antonio Matéu",
+                    "nationality": null
+                },
+                {
+                    "id": 134,
+                    "name": "Pau Cebrián",
+                    "nationality": null
+                },
+                {
+                    "id": 82,
+                    "name": "Roberto Díaz",
+                    "nationality": null
+                },
+                {
+                    "id": 43864,
+                    "name": "Javier Estrada",
+                    "nationality": null
+                },
+                {
+                    "id": 81,
+                    "name": "Juan Martínez",
+                    "nationality": null
+                },
+                {
+                    "id": 55934,
+                    "name": "Guillermo Cuadra",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313246,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-20T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group H",
+            "lastUpdated": "2020-11-07T05:30:14Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 721,
+                "name": "RB Leipzig"
+            },
+            "awayTeam": {
+                "id": 1897,
+                "name": "Medipol Başakşehir FK"
+            },
+            "referees": [
+                {
+                    "id": 43870,
+                    "name": "Jesús Gil",
+                    "nationality": null
+                },
+                {
+                    "id": 43873,
+                    "name": "Diego Barbero",
+                    "nationality": null
+                },
+                {
+                    "id": 32192,
+                    "name": "Ángel Nevado",
+                    "nationality": null
+                },
+                {
+                    "id": 15628,
+                    "name": "Ricardo de Burgos",
+                    "nationality": null
+                },
+                {
+                    "id": 15625,
+                    "name": "Alejandro Hernández",
+                    "nationality": null
+                },
+                {
+                    "id": 3158,
+                    "name": "Iñigo Prieto",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313161,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T16:55:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group A",
+            "lastUpdated": "2020-10-22T01:35:02Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 1877,
+                "name": "FC Red Bull Salzburg"
+            },
+            "awayTeam": {
+                "id": 5455,
+                "name": "FK Lokomotiv Moskva"
+            },
+            "referees": [
+                {
+                    "id": 43858,
+                    "name": "Serdar Gözübüyük",
+                    "nationality": null
+                },
+                {
+                    "id": 43860,
+                    "name": "Joost van Zuilen",
+                    "nationality": null
+                },
+                {
+                    "id": 14764,
+                    "name": "Johan Balder",
+                    "nationality": null
+                },
+                {
+                    "id": 56905,
+                    "name": "Bas Nijhuis",
+                    "nationality": null
+                },
+                {
+                    "id": 15152,
+                    "name": "Pol van Boekel",
+                    "nationality": null
+                },
+                {
+                    "id": 43861,
+                    "name": "Dennis Higler",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313173,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T16:55:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group B",
+            "lastUpdated": "2020-11-07T05:30:10Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 3
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 86,
+                "name": "Real Madrid CF"
+            },
+            "awayTeam": {
+                "id": 1887,
+                "name": "FK Shakhtar Donetsk"
+            },
+            "referees": [
+                {
+                    "id": 15649,
+                    "name": "Srđan Jovanović",
+                    "nationality": null
+                },
+                {
+                    "id": 15650,
+                    "name": "Uroš Stojković",
+                    "nationality": null
+                },
+                {
+                    "id": 15651,
+                    "name": "Milan Mihajlović",
+                    "nationality": null
+                },
+                {
+                    "id": 81775,
+                    "name": "Novak Simović",
+                    "nationality": null
+                },
+                {
+                    "id": 43888,
+                    "name": "Szymon Marciniak",
+                    "nationality": null
+                },
+                {
+                    "id": 72624,
+                    "name": "Tomasz Kwiatkowski",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313162,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group A",
+            "lastUpdated": "2020-11-07T05:30:09Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 4,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 5,
+                "name": "FC Bayern München"
+            },
+            "awayTeam": {
+                "id": 78,
+                "name": "Club Atlético de Madrid"
+            },
+            "referees": [
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "nationality": null
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "nationality": null
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "nationality": null
+                },
+                {
+                    "id": 11423,
+                    "name": "Andy Madley",
+                    "nationality": null
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "nationality": null
+                },
+                {
+                    "id": 11585,
+                    "name": "Craig Pawson",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313174,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group B",
+            "lastUpdated": "2020-10-22T12:50:02Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 108,
+                "name": "FC Internazionale Milano"
+            },
+            "awayTeam": {
+                "id": 18,
+                "name": "Borussia Mönchengladbach"
+            },
+            "referees": [
+                {
+                    "id": 9558,
+                    "name": "Björn Kuipers",
+                    "nationality": null
+                },
+                {
+                    "id": 9559,
+                    "name": "Sander van Roekel",
+                    "nationality": null
+                },
+                {
+                    "id": 9560,
+                    "name": "Erwin Zeinstra",
+                    "nationality": null
+                },
+                {
+                    "id": 9561,
+                    "name": "Allard Lindhout",
+                    "nationality": null
+                },
+                {
+                    "id": 43899,
+                    "name": "Danny Makkelie",
+                    "nationality": null
+                },
+                {
+                    "id": 15154,
+                    "name": "Jan de Vries",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313185,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group C",
+            "lastUpdated": "2020-11-07T05:30:11Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 65,
+                "name": "Manchester City FC"
+            },
+            "awayTeam": {
+                "id": 503,
+                "name": "FC Porto"
+            },
+            "referees": [
+                {
+                    "id": 43838,
+                    "name": "Andris Treimanis",
+                    "nationality": null
+                },
+                {
+                    "id": 43839,
+                    "name": "Haralds Gudermanis",
+                    "nationality": null
+                },
+                {
+                    "id": 43840,
+                    "name": "Aleksejs Spasjoņņikovs",
+                    "nationality": null
+                },
+                {
+                    "id": 43841,
+                    "name": "Aleksandrs Golubevs",
+                    "nationality": null
+                },
+                {
+                    "id": 43716,
+                    "name": "Jochem Kamphuis",
+                    "nationality": null
+                },
+                {
+                    "id": 43902,
+                    "name": "Kevin Blom",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313186,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group C",
+            "lastUpdated": "2020-11-07T05:30:11Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 654,
+                "name": "PAE Olympiakos SFP"
+            },
+            "awayTeam": {
+                "id": 516,
+                "name": "Olympique de Marseille"
+            },
+            "referees": [
+                {
+                    "id": 11116,
+                    "name": "Daniele Orsato",
+                    "nationality": null
+                },
+                {
+                    "id": 11055,
+                    "name": "Filippo Meli",
+                    "nationality": null
+                },
+                {
+                    "id": 11049,
+                    "name": "Ciro Carbone",
+                    "nationality": null
+                },
+                {
+                    "id": 10990,
+                    "name": "Piero Giacomelli",
+                    "nationality": null
+                },
+                {
+                    "id": 11079,
+                    "name": "Marco Guida",
+                    "nationality": null
+                },
+                {
+                    "id": 10991,
+                    "name": "Giorgio Peretti",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313197,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group D",
+            "lastUpdated": "2020-11-07T05:30:11Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 678,
+                "name": "AFC Ajax"
+            },
+            "awayTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "referees": [
+                {
+                    "id": 43875,
+                    "name": "Felix Brych",
+                    "nationality": null
+                },
+                {
+                    "id": 43876,
+                    "name": "Mark Borsch",
+                    "nationality": null
+                },
+                {
+                    "id": 43877,
+                    "name": "Stefan Lupp",
+                    "nationality": null
+                },
+                {
+                    "id": 15408,
+                    "name": "Daniel Siebert",
+                    "nationality": null
+                },
+                {
+                    "id": 57526,
+                    "name": "Christian Dingert",
+                    "nationality": null
+                },
+                {
+                    "id": 15821,
+                    "name": "Marco Fritz",
+                    "nationality": null
+                }
+            ]
+        },
+        {
+            "id": 313198,
+            "season": {
+                "id": 642,
+                "startDate": "2020-08-08",
+                "endDate": "2021-05-29",
+                "currentMatchday": 4
+            },
+            "utcDate": "2020-10-21T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "GROUP_STAGE",
+            "group": "Group D",
+            "lastUpdated": "2020-10-22T12:55:03Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 4
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 3
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 4485,
+                "name": "FC Midtjylland"
+            },
+            "awayTeam": {
+                "id": 102,
+                "name": "Atalanta BC"
+            },
+            "referees": [
+                {
+                    "id": 43540,
+                    "name": "Artur Soares Dias",
+                    "nationality": null
+                },
+                {
+                    "id": 37626,
+                    "name": "Rui Licínio Barbosa Tavares",
+                    "nationality": null
+                },
+                {
+                    "id": 37714,
+                    "name": "Paulo Soares",
+                    "nationality": null
+                },
+                {
+                    "id": 38806,
+                    "name": "João Pedro Pinheiro",
+                    "nationality": null
+                },
+                {
+                    "id": 15713,
+                    "name": "Tiago Martins",
+                    "nationality": null
+                },
+                {
+                    "id": 37629,
+                    "name": "Luís Godinho",
+                    "nationality": null
+                }
+            ]
+        }
+    ]
+}

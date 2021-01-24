@@ -1,0 +1,80 @@
+.scorers-list {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+ul.scorers img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+
+ul.scorers {
+    margin: auto;
+    width: 100vmin;
+    list-style: none;
+}
+
+ul.scorers .scorer {
+    margin: 10px auto;
+    width: 100%;
+    background-color: rgb(175, 95, 250);
+    border: 1px solid rgb(175, 95, 250);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul.scorers .scorer div {
+    width: 70%;
+    background-color: azure;
+    padding: 3px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+ul.scorers .scorer div .details {
+    display: inline-block;
+    width: 90%;
+    overflow-x: auto;
+    margin-right: 7px;
+}
+
+ul.scorers .scorer div .details h3,
+ul.scorers .scorer div .details h5 {
+    text-align: left;
+}
+
+ul.scorers .scorer span {
+    display: block;
+    line-height: 45px;
+    color: azure;
+}
+
+ul.scorers .scorer .nth-place {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul.scorers .scorer .goals {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul.scorers .scorer .name h5 {
+    font-weight: 500;
+}
+
+@media screen and (max-width: 576px) {
+    .scorers {
+        font-size: .75em;
+    }
+}

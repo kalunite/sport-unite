@@ -1,0 +1,149 @@
+/* global nav */
+.menu {
+    display: none;
+}
+
+.menu span:nth-child(2) {
+    transform-origin: left;
+}
+
+.menu span:nth-child(4) {
+    transform-origin: right;
+}
+
+/* global nav end */
+
+.main-nav {
+    background-image: linear-gradient(rgb(175, 95, 250), azure, rgb(175, 95, 250));
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 10vh;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    border: 1px solid rgb(175, 95, 250);
+    z-index: 999;
+}
+
+.main-nav .title {
+    display: flex;
+    width: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+img#main-logo {
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: contain;
+    filter: drop-shadow(0 0 1px rgb(175, 95, 250));
+}
+
+.main-nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 80%;
+}
+
+.main-nav ul a:hover {
+    filter: drop-shadow(0 0 7px darkslategray);
+}
+
+/* animation */
+.main.menu input:checked~span:nth-child(2) {
+    transform: rotate(38deg);
+}
+
+.main.menu input:checked~span:nth-child(3) {
+    width: 125%;
+    transform: rotate(-45deg) translate(-2px, -2px);
+}
+
+.main.menu input:checked~span:nth-child(4) {
+    transform: rotate(38deg);
+}
+
+@media screen and (max-width: 768px) {
+    .main-nav ul {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    /* global nav */
+    .menu {
+        display: flex;
+        position: relative;
+        justify-content: space-between;
+        flex-direction: column;
+        height: 1.5rem;
+        width: 1.5rem;
+    }
+
+    .menu span {
+        background-color: black;
+        display: block;
+        width: 100%;
+        height: .3rem;
+        border-radius: 2px;
+        transition: all .7s;
+    }
+
+    .menu input {
+        position: absolute;
+        width: 1.6rem;
+        height: 1.6rem;
+        opacity: 0;
+        cursor: pointer;
+        z-index: 99;
+    }
+
+    /* global nav end */
+
+    .main-nav .title {
+        width: 2.5rem;
+    }
+
+    .main-nav ul {
+        width: 50vw;
+        height: 0;
+        background-image: linear-gradient(90deg, rgb(175, 95, 250), azure, rgb(175, 95, 250));
+        position: absolute;
+        align-items: center;
+        justify-content: start;
+        flex-direction: column;
+        overflow-y: auto;
+        transition: all 1s;
+        top: 10vh;
+        right: 0;
+        border: 0 solid black;
+    }
+
+    .main-nav.slide-pages {
+        border: 1px solid black;
+        border-left: 0 solid black;
+        border-right: 0 solid black;
+    }
+
+    .main-nav ul.slide-pages {
+        height: 90vh;
+        border: 1px solid black;
+    }
+
+
+    .main-nav ul a {
+        margin-top: 7vh;
+    }
+
+    .main-nav ul a:first-child {
+        margin-top: 3vh;
+    }
+
+    .main-nav ul a:last-child {
+        margin-bottom: 13vh;
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "count": 10,
+    "filters": {
+        "limit": 10
+    },
+    "competition": {
+        "id": 2001,
+        "area": {
+            "id": 2077,
+            "name": "Europe"
+        },
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2020-11-05T03:35:02Z"
+    },
+    "season": {
+        "id": 642,
+        "startDate": "2020-08-08",
+        "endDate": "2021-05-29",
+        "currentMatchday": 4,
+        "winner": null
+    },
+    "scorers": [
+        {
+            "player": {
+                "id": 16347,
+                "name": "Dominik Szoboszlai",
+                "firstName": "Dominik",
+                "lastName": null,
+                "dateOfBirth": "2000-10-25",
+                "countryOfBirth": "Hungary",
+                "nationality": "Hungary",
+                "position": "Midfielder",
+                "shirtNumber": null,
+                "lastUpdated": "2020-08-20T03:19:06Z"
+            },
+            "team": {
+                "id": 1877,
+                "name": "FC Red Bull Salzburg"
+            },
+            "numberOfGoals": 4
+        },
+        {
+            "player": {
+                "id": 7819,
+                "name": "Álvaro Morata",
+                "firstName": "Álvaro Borja",
+                "lastName": null,
+                "dateOfBirth": "1992-10-23",
+                "countryOfBirth": "Spain",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null,
+                "lastUpdated": "2020-09-07T21:25:52Z"
+            },
+            "team": {
+                "id": 109,
+                "name": "Juventus FC"
+            },
+            "numberOfGoals": 4
+        },
+        {
+            "player": {
+                "id": 38101,
+                "name": "Erling Haaland",
+                "firstName": "Erling Braut",
+                "lastName": null,
+                "dateOfBirth": "2000-07-21",
+                "countryOfBirth": "England",
+                "nationality": "Norway",
+                "position": "Attacker",
+                "shirtNumber": null,
+                "lastUpdated": "2020-09-07T18:47:42Z"
+            },
+            "team": {
+                "id": 4,
+                "name": "BV Borussia 09 Dortmund"
+            },
+            "numberOfGoals": 4
+        },
+        {
+            "player": {
+                "id": 3331,
+                "name": "Marcus Rashford",
+                "firstName": "Marcus",
+                "lastName": null,
+                "dateOfBirth": "1997-10-31",
+                "countryOfBirth": "England",
+                "nationality": "England",
+                "position": "Attacker",
+                "shirtNumber": null,
+                "lastUpdated": "2020-09-07T21:02:46Z"
+            },
+            "team": {
+                "id": 66,
+                "name": "Manchester United FC"
+            },
+            "numberOfGoals": 4
+        },
+        {
+            "player": {
+                "id": 4092,
+                "name": "Diogo Jota",
+                "firstName": "Diogo José",
+                "lastName": null,
+                "dateOfBirth": "1996-12-04",
+                "countryOfBirth": "Portugal",
+                "nationality": "Portugal",
+                "position": "Attacker",
+                "shirtNumber": null,
+                "lastUpdated": "2020-09-07T21:02:52Z"
+            },
+            "team": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "numberOfGoals": 4
+        },
+        {
+            "player": {
+                "id": 24503,
+                "name": "Anders Dreyer",
+                "firstName": "Anders",
+                "lastName": null,
+                "dateOfBirth": "1998-05-02",
+                "countryOfBirth": "Denmark",
+                "nationality": "Denmark",
+                "position": "Attacker",
+                "shirtNumber": null,
+                "lastUpdated": "2020-08-25T05:35:26Z"
+            },
+            "team": {
+                "id": 4485,
+                "name": "FC Midtjylland"
+            },
+            "numberOfGoals": 3
+        },
+        {
+            "player": {
+                "id": 38432,
+                "name": "Franck Boli",
+                "firstName": "Bi Sylvestre Franck",
+                "lastName": null,
+                "dateOfBirth": "1993-12-07",
+                "countryOfBirth": "Côte d’Ivoire",
+                "nationality": "Côte d’Ivoire",
+                "position": "Attacker",
+                "shirtNumber": 70,
+                "lastUpdated": "2020-09-03T04:19:44Z"
+            },
+            "team": {
+                "id": 5954,
+                "name": "Ferencvárosi TC"
+            },
+            "numberOfGoals": 3
+        },
+        {
+            "player": {
+                "id": 28424,
+                "name": "Carlos De Pena",
+                "firstName": "Carlos María",
+                "lastName": null,
+                "dateOfBirth": "1992-03-11",
+                "countryOfBirth": "Uruguay",
+                "nationality": "Uruguay",
+                "position": "Midfielder",
+                "shirtNumber": 14,
+                "lastUpdated": "2020-09-03T03:34:44Z"
+            },
+            "team": {
+                "id": 842,
+                "name": "FK Dynamo Kyiv"
+            },
+            "numberOfGoals": 3
+        },
+        {
+            "player": {
+                "id": 3218,
+                "name": "Lionel Messi",
+                "firstName": "Lionel Andrés",
+                "lastName": null,
+                "dateOfBirth": "1987-06-24",
+                "countryOfBirth": "Argentina",
+                "nationality": "Argentina",
+                "position": "Attacker",
+                "shirtNumber": null,
+                "lastUpdated": "2020-09-07T21:25:55Z"
+            },
+            "team": {
+                "id": 81,
+                "name": "FC Barcelona"
+            },
+            "numberOfGoals": 3
+        },
+        {
+            "player": {
+                "id": 33154,
+                "name": "Ferrán",
+                "firstName": "Ferrán",
+                "lastName": null,
+                "dateOfBirth": "2000-02-29",
+                "countryOfBirth": "Spain",
+                "nationality": "Spain",
+                "position": "Attacker",
+                "shirtNumber": null,
+                "lastUpdated": "2020-09-07T21:02:45Z"
+            },
+            "team": {
+                "id": 65,
+                "name": "Manchester City FC"
+            },
+            "numberOfGoals": 3
+        }
+    ]
+}

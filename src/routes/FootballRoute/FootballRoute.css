@@ -1,0 +1,58 @@
+.football-leagues {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.football-leagues a {
+    text-decoration-line: none;
+    color: black;
+    margin: 10px;
+}
+
+.football-leagues .league-card {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    height: 300px;
+    border: 1px solid rgb(70, 70, 70);
+    border-bottom: 7px solid rgb(70, 70, 70);
+}
+
+.football-leagues .league-card .logo {
+    width: 100%;
+    height: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.football-leagues .league-card .logo img {
+    width: 200px;
+    height: 200px;
+}
+
+.football-leagues .league-card .title {
+    width: 100%;
+    height: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc;
+}
+
+.football-leagues .league-card .title h5 {
+    font-weight: 500;
+}
+
+.football-leagues a:visited {
+    color: purple;
+}
+
+.football-leagues a:active {
+    color: red;
+}

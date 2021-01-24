@@ -1,0 +1,135 @@
+.team-details {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.team-details h4,
+.team-details h5 {
+    font-weight: 500;
+}
+
+.team-details .title {
+    width: 300px;
+    margin: 7px;
+}
+
+.team-details .title img {
+    width: 100%;
+}
+
+.team-details .details {
+    width: 450px;
+    margin: 7px;
+    overflow-x: auto;
+}
+
+.team-details .details table {
+    width: 100%;
+    text-align: left;
+    background-color: black;
+}
+
+.team-details .details table td:first-child {
+    background-color: lightgray;
+    padding: 7px 3px;
+}
+
+.team-details .details table td:nth-child(2) {
+    background-color: azure;
+    padding: 7px 3px;
+    text-align: center;
+}
+
+.team-details .details .club-color {
+    width: 30px;
+    height: 30px;
+    margin: 0 3px;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.team-details .details ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.team-details .details ul li img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.team-details ul {
+    list-style: none;
+}
+
+.team-details .squad {
+    width: 750px;
+    margin: 7px;
+    border: 1px solid black;
+}
+
+.team-details .squad span {
+    padding: 3px;
+    border-radius: 10px;
+    background-color: azure;
+    display: block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid black;
+}
+
+.team-details .squad .goalkeeper {
+    background-color: yellow;
+}
+
+.team-details .squad .defender {
+    background-color: aqua;
+}
+
+.team-details .squad .midfielder {
+    background-color: lime;
+}
+
+.team-details .squad .attacker {
+    background-color: red;
+}
+
+.team-details .squad-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 3px;
+}
+
+.team-details .squad-list:first-child {
+    display: block;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+.team-details .squad-list:nth-child(odd) {
+    background-color: lightgray;
+}
+
+.team-details .squad-list:nth-child(even) {
+    background-color: azure;
+}
+
+.team-details .squad-list .squad-details {
+    width: 200px;
+    overflow-x: auto;
+    text-align: left;
+}
+
+@media screen and (min-width: 1500px) {
+    .team-details {
+        align-items: flex-start;
+    }
+}
