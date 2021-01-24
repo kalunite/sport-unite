@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sport-unite/static/css/main.a8c37309.chunk.css",
+    "main.js": "/sport-unite/static/js/main.34888c10.chunk.js",
+    "main.js.map": "/sport-unite/static/js/main.34888c10.chunk.js.map",
+    "runtime-main.js": "/sport-unite/static/js/runtime-main.31d3d5f2.js",
+    "runtime-main.js.map": "/sport-unite/static/js/runtime-main.31d3d5f2.js.map",
+    "static/js/2.51f7bde2.chunk.js": "/sport-unite/static/js/2.51f7bde2.chunk.js",
+    "static/js/2.51f7bde2.chunk.js.map": "/sport-unite/static/js/2.51f7bde2.chunk.js.map",
+    "index.html": "/sport-unite/index.html",
+    "precache-manifest.0d914f6562bbc1afdad7a4e362c104b4.js": "/sport-unite/precache-manifest.0d914f6562bbc1afdad7a4e362c104b4.js",
+    "service-worker.js": "/sport-unite/service-worker.js",
+    "static/css/main.a8c37309.chunk.css.map": "/sport-unite/static/css/main.a8c37309.chunk.css.map",
+    "static/js/2.51f7bde2.chunk.js.LICENSE.txt": "/sport-unite/static/js/2.51f7bde2.chunk.js.LICENSE.txt",
+    "static/media/draw-color.png": "/sport-unite/static/media/draw-color.2e34f5e6.png",
+    "static/media/kalUnite(Light).png": "/sport-unite/static/media/kalUnite(Light).1257796f.png",
+    "static/media/lose-color.png": "/sport-unite/static/media/lose-color.668576a5.png",
+    "static/media/win-color.png": "/sport-unite/static/media/win-color.05b7b23d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d3d5f2.js",
+    "static/js/2.51f7bde2.chunk.js",
+    "static/css/main.a8c37309.chunk.css",
+    "static/js/main.34888c10.chunk.js"
+  ]
+}
